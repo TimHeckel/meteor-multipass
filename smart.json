@@ -1,0 +1,8 @@
+{
+    "name": "multipass",
+    "description": "MultiPass - NPM MultiPass, packaged for Meteor",
+    "homepage": "https://github.com/TimHeckel/meteor-multipass",
+    "author": "Tim Heckel  (http://timheckel.com)",
+    "version": "0.0.1",
+    "git": "https://github.com/TimHeckel/meteor-multipass.git"
+}
